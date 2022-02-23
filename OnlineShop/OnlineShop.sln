@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32210.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopBackend", "ShopBackend\ShopBackend.csproj", "{098B559B-B897-40D4-8163-FC03127B3C9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopAPI", "..\ShopAPI\ShopAPI\ShopAPI.csproj", "{EE19019D-FCC4-40AA-8052-CACC30B59B1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{098B559B-B897-40D4-8163-FC03127B3C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098B559B-B897-40D4-8163-FC03127B3C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098B559B-B897-40D4-8163-FC03127B3C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098B559B-B897-40D4-8163-FC03127B3C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE19019D-FCC4-40AA-8052-CACC30B59B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE19019D-FCC4-40AA-8052-CACC30B59B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE19019D-FCC4-40AA-8052-CACC30B59B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE19019D-FCC4-40AA-8052-CACC30B59B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11F7C93B-6E33-45EF-9533-5FE6A28AF718}
+	EndGlobalSection
+EndGlobal
